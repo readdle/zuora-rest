@@ -1,8 +1,8 @@
 {
-    "name": "mhrabovcin/zuora-rest",
+    "name": "readdle/zuora-rest",
     "type": "library",
     "description": "A PHP client for integrating with the Zuora API",
-    "homepage": "https://github.com/mhrabovcin/zuora-rest",
+    "homepage": "https://github.com/readdle/zuora-rest",
     "license": "MIT",
     "authors": [
         {
@@ -11,7 +11,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/mhrabovcin/zuora-rest/issues"
+        "issues": "https://github.com/readdle/zuora-rest/issues"
     },
     "require": {
         "php": "^7.1"
